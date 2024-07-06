@@ -2001,6 +2001,8 @@ input, select, textarea {
 		.wrapper.style2 {
 			background-color: #fafafa;
 			text-shadow: 1px 1px 0px #fff;
+			font-weight: 500;
+			font-size: 15pt;
 		}
 
 		.wrapper.style3 {
